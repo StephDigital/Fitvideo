@@ -1,6 +1,6 @@
 # Fitvideo
 
-This full video background landing page uses HTML, CSS (grid, flexbox). It is also compatible with mobile phones thanks to media queries. This landing page is a template created by Stéphane Andre.
+This full screen video landing page uses HTML, CSS (grid, flexbox). It is also compatible with mobile phones thanks to media queries. This landing page is a template created by Stéphane Andre.
 
 ## Preview
 
@@ -21,7 +21,7 @@ To start using this template, choose one of the following options to get started
 
 ### Basic Usage
 
-After downloading, edit HTML, CSS, and JavaScript with your text editor to make changes. These are the only files you should use. To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+After downloading, edit HTML and CSS with your text editor to make changes. These are the only files you should use. To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
 ## License
 
